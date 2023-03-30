@@ -13,4 +13,11 @@
 > - In jeder der Liste muss ein Element an der Position 5 hizugefügt werden
 > - Anzahl der Listenelementen ausgeben
 > - Element löschen
-> 
+> - # Übungsblatt 2 
+>   Aufgabe 1
+>   - Es ist folgender String gegeben: "Die Mendeleev-Tabelle hat insgesamt einhundertachtzehn Elemente, beginnnend mit Wasserstoff(H) und endet mit Oganensson(Og) "
+>   - Es sollte Skript geschrieben werden, welches:
+>     - die Anzahl der Wörter zählt
+>     - die Häufigkeit jedes Wort zählt
+>     - das Zeichen "." sucht und gegen das Zeichen "!" ersetzt.
+>     - den bisherigen String nach dem Wort "und" mit dem folgende String erweitert "ist auch bekannt als Periodensystem der Elemente" und den Rest des bisherigen Strings dort anhähgt.
