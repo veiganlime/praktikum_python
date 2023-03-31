@@ -28,3 +28,8 @@
 >     - Jedes dieser Listen enthaelt so viele Eintraege, wie die Groesse Ihres Indiyes lautet
 >     - Geben Sie die Liste aus
 >     - Veraendern Sie die Liste, in dem Sie die Unterlisten aufloesen und alle Eintraege als einyelne Listeneintraege in die Liste einfuegen
+>   
+>   Aufgabe 3 : Dictionaries 
+>     - Erzreugen Sie ein Dictionary mit 10 Hauptstadrnamen Ihere Wahl in Deutsch und Englisch.
+>     - Fragen Sie die Keys ab, sortieren diese alphabetisch aufsteigend und geben dazu die Englishen Namen aus.
+>     - 
