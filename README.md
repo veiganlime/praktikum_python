@@ -21,3 +21,10 @@
 >     - die Häufigkeit jedes Wort zählt
 >     - das Zeichen "." sucht und gegen das Zeichen "!" ersetzt.
 >     - den bisherigen String nach dem Wort "und" mit dem folgende String erweitert "ist auch bekannt als Periodensystem der Elemente" und den Rest des bisherigen Strings dort anhähgt.
+>  
+>   Aufgabe 2 : Listen, Methoden und Funktionen 
+>     - Es ist eine Liste mit 100 Elementen zu erzeugen
+>     - Jedes Element besteeht wiederum aus einer Liste 
+>     - Jedes dieser Listen enthaelt so viele Eintraege, wie die Groesse Ihres Indiyes lautet
+>     - Geben Sie die Liste aus
+>     - Veraendern Sie die Liste, in dem Sie die Unterlisten aufloesen und alle Eintraege als einyelne Listeneintraege in die Liste einfuegen

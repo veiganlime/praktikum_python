@@ -1,3 +1,4 @@
+#Aufgabe_1
 #Laut der Aufgabestellung String eingeben
 string = "Die Mendeleev-Tabelle hat insgesamt einhundertachtzehn Elemente, " \
         "beginnnend mit Wasserstoff(H) und endet mit Oganensson(Og)."
@@ -31,4 +32,6 @@ next_string = ""
 for word in s_split:
         next_string = next_string + word + " "
 print(next_string)
+#Aufgabe_2
+
 
