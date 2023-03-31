@@ -34,4 +34,17 @@ for word in s_split:
 print(next_string)
 #Aufgabe_2
 
+def main():
+        mylist = [[j for j in range(i)] for i in range (10)]
+        print(mylist)
 
+        newlist = []
+        for element in mylist:
+                for e in element:
+                        newlist.append(e)
+        print(newlist)
+
+
+
+if __name__ == "__main__":
+    main()
