@@ -56,4 +56,12 @@
 >     - Aufgabe 3.3:
 >       - Es ist ein Script zu schreiben, der eine List mit 100 Einträgen von Integerzahlen erstellt 
 >       - Das Programm sill im Anschluss alle Zahlen aus der Liste verdoppeln und die bisherigen Einträge gegen die neuen Einträge tauschen
+>     - Aufgabe 4.1: String 
+>       - Es ist folgender String gegeben: „[1,2,3,4, [a,b,c,d], help, run, [[a,b],[1,2]]]\n“
+>         - Löschen Sie bitte dsa "\n" Zeichen
+>         - Löschen Sie bitte das erste "[" und das letzte "]" Zeichen 
+>         - Trennen Sie die Einträge auf der obersten Listenebene nach Kommata
+>         - Extrahieren Sie die 3 und die letzte 2 und multiplizieren die beiden Zahlen und geben das Produkt aus
+>     - 
+>      
 >         
