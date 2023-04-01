@@ -61,9 +61,8 @@
 >         - Löschen Sie bitte dsa "\n" Zeichen
 >         - Löschen Sie bitte das erste "[" und das letzte "]" Zeichen 
 >         - Trennen Sie die Einträge auf der obersten Listenebene nach Kommata
->         - Extrahieren Sie die 3 und die letzte 2 und multiplizieren die beiden Zahlen und geben das Produkt aus
 >         - Suchen Sie bitte in dem String nach der Subliste [a,b]
->         - Ersetzen Sie bitte in dem String alle "2" durch "1234" 
+>         
 >     - 
 >      
 >         
