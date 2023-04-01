@@ -5,3 +5,6 @@ for index in range(len(new_list)):
     new_list[index] = 2 * new_list[index]
 
 print(new_list)
+
+
+
