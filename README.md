@@ -34,18 +34,26 @@
 >     - Fragen Sie die Keys ab, sortieren diese alphabetisch aufsteigend und geben dazu die Englishen Namen aus.
 >    Aufgabe 4: Listen 
 >     - Speichern Sie bitte die Elemente "Katze", "Hund", 17, "Super" und 3.14 in einer Liste mit dem Namen meine_liste ab und versuchen Sie bitte herauszufinden, was die folgenden Methoden bewirken:
->       ````Python
-        >>>liste[2] = 123
-        >>>len(liste)
-        >>>liste.append('Ni')
-        >>>liste.extend([4, 5, 3.14])
-        >>>liste.insert(2, 'Taube')
-        >>>liste.count(3.14)
-        >>>liste.index(3.14)
-        >>>liste.remove(3.13)
-        >>>liste.pop()
-        >>>liste.reverse()
-        >>>sum([1, 3, 5])
-````
-
->   
+>       ````python
+>        liste[2] = 123
+>        len(liste)
+>        liste.append('Ni')
+>        liste.extend([4, 5, 3.14])
+>        liste.insert(2, 'Taube')
+>        liste.count(3.14)
+>        liste.index(3.14)
+>        liste.remove(3.13)
+>        liste.pop()
+>        liste.reverse()
+>        sum([1, 3, 5])````
+>
+>
+>     - Aufgabe 3: Dictionaries 
+>        - Erzreugen Sie ein Dictionary mit 10 Hauptstadrnamen Ihere Wahl in Deutsch und Englisch.
+>        - Fragen Sie die Keys ab, sortieren diese alphabetisch aufsteigend und geben dazu die Englishen Namen aus.
+>     - Aufgabe 3.2:
+>       - Es ist ein Script zu schreiben, der alle Listeeinträge auf Anfanhgbuchschtabe untersucht.
+>     - Aufgabe 3.3:
+>       - Es ist ein Script zu schreiben, der eine List mit 100 Einträgen von Integerzahlen erstellt 
+>       - Das Programm sill im Anschluss alle Zahlen aus der Liste verdoppeln und die bisherigen Einträge gegen die neuen Einträge tauschen
+>         
