@@ -63,6 +63,13 @@
 >         - Trennen Sie die Einträge auf der obersten Listenebene nach Kommata
 >         - Suchen Sie bitte in dem String nach der Subliste [a,b]
 >         
->     - 
->      
->         
+>     - Aufgabe 4.2: 
+>       - Erzeugen Sie ein Dictionary, wo Sie die Key Value Pairs nach folgender rekursiver Regel berechnen:
+>          |0|1|
+>          |1|1|
+>          |2|2|
+>          |3|3|
+>          |4|8|
+>          |5|15|
+>          |6|8|
+>       
