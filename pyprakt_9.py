@@ -20,4 +20,4 @@ if isSchaltjahr:
 elif isSchaltjahr is None:
     print("Jahr entspricht nicht dem Gregorianischen Kalender")
 else:
-    print(eingabe, "ist kein Schaltjahr")
+    print(eingabe, "- ist kein Schaltjahr")
